@@ -39,7 +39,7 @@ El personaje hace acciones como abrir la cabeza cuando la temperatura es baja, t
 2. [Enlace 2](https://wokwi.com/projects/409399282083552257)
 
 ## Videos
-[Enlace del vídeo en Drive](https://drive.google.com)
+[Enlace del vídeo en Drive](https://drive.google.com/drive/folders/1n7p81OHyUUFjczIvOxejZtV15el7jEZ2?usp=sharing)
 
 ## Capturas de Evaluaciones de Curso de C
 (Capturas de pantalla de sus resultados de evaluaciones del curso de C.)
