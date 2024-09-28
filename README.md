@@ -6,7 +6,7 @@ Doctor Finklestein
 Juan Diego Pardo Zamarripa
 
 ## Explicación del funcionamiento
-El personaje se activa cuando una persona se acerca a 5 cm de distancia. Al activarse, el **Doctor Finklestein** realiza las siguientes acciones:
+El personaje hace acciones como abrir la cabeza cuando la temperatura es baja, tambien si es de noche enciende luces navideñas
 
 ### Funcionalidades
 1. **Iluminación**: Los LEDs se encienden en secuencia, creando un efecto de luces navideñas.
