@@ -9,10 +9,10 @@ Juan Diego Pardo Zamarripa
 El personaje hace acciones como abrir la cabeza cuando la temperatura es baja, tambien si es de noche enciende luces navideñas
 
 ### Funcionalidades
-1. **Iluminación**: Los LEDs se encienden en secuencia, creando un efecto de luces navideñas.
-2. **Movimiento**: La cabeza del personaje gira de lado a lado, simulando que está observando a quien se acerca.
-3. **Apagado automático**: Si no detecta movimiento en 30 segundos, el personaje se apaga automáticamente para ahorrar energía.
-4. **Cuando la temperatura baja mueve se le abre la cabeza 
+1. luminación: Los LEDs se encienden en secuencia, creando un efecto festivo de luces navideñas que alegran el ambiente.
+2. Movimiento: La cabeza del personaje gira de lado a lado, simulando que está observando a quienes se acercan, lo que añade un toque de realismo.
+2. Apagado automático: Si no detecta movimiento en 30 segundos, el personaje se apaga automáticamente para ahorrar energía, contribuyendo a la sostenibilidad.
+4. Apertura de cabeza: Cuando la temperatura baja, el Doctor Finklestein abre su cabeza, revelando un interior lleno de sorpresas y luces.
 
 ## Materiales a utilizar
 | Material         | Imagen                                                                                   | Cantidad | Costo  |
@@ -33,6 +33,8 @@ El personaje hace acciones como abrir la cabeza cuando la temperatura es baja, t
 
 ## Dibujo del personaje
 (Imagen hecha a mano o con software)
+![WhatsApp Image 2024-09-28 at 12 24 29 AM](https://github.com/user-attachments/assets/a3687a7f-97c3-41cf-920d-f015ffebf9a6)
+
 
 ## Enlaces de la simulación de Wokwi
 1. [Enlace 1](https://wokwi.com/projects/410236335057475585)
